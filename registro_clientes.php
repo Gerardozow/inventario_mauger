@@ -26,9 +26,9 @@ include_once('layouts/head.php');
                 <div class="container-fluid p-0">
                     <?php echo display_msg($msg); ?>
                     <div class="d-flex">
-                        <h1 class="h3 mb-3"><strong>Productos</strong> </h1>
+                        <h1 class="h3 mb-3"><strong>Clientes</strong> </h1>
                         <div class="col-auto ms-auto text-end mt-n1">
-                            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#creation_productos">Nuevo Producto</button>
+                            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#creation_cliente">Nuevo Cliente</button>
                         </div>
                     </div>
 
