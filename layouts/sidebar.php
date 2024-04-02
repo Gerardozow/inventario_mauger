@@ -25,6 +25,9 @@ $user_level = $user_level[0]['user_level'];
             <?php include_once('sidebar_menu/productos_menu.php') ?>
 
 
+            <!-- CRM & Ventas -->
+            <?php include_once('sidebar_menu/crm_menu.php') ?>
+
             <!-- Menu HR -->
             <?php include_once('sidebar_menu/hr_menu.php') ?>
 
